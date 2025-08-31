@@ -1,7 +1,3 @@
-Here's a README file in English for the provided program:
-
----
-
 # Item Processing Simulation Program
 
 ## Overview
